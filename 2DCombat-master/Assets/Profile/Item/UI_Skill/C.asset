@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9f6616e2cc4d7f4dac0fde834f12fe3, type: 3}
+  m_Name: C
+  m_EditorClassIdentifier: 
+  itemName: C
+  iconImage: {fileID: 1160893600, guid: 4a4ec70f29513df4ea631f0ddd82977c, type: 3}
+  skillData: {fileID: 11400000, guid: b9ece6eae73c77f4d803bc2d4946b954, type: 2}
